@@ -1,2 +1,2 @@
 # DeltaV-CE
-This small program uses the rocket equation to calculate the delta-V of a vehicle using exhaust velocity as an input variable.
+This small program uses the rocket equation to calculate the delta-V of a vehicle using exhaust velocity as an input variable. It is excellent for students and enthusiasts to understand better how a change in mass over time impacts the change in velocity of a rocket. The equation is purely theoretical and does not consider things like air resistance. However, the theory is sound, and the app is a great way to begin understanding the complicated rocket equation.
